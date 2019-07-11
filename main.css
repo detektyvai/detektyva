@@ -4,8 +4,8 @@
 
 body {
   background-image:
-  url("img/annie-spratt-xvU-X0GV9-o-unsplash.jpg");
-  background-repeat: no-repeat, repeat;
+  url("img/annie-spratt-xvU-X0GV9-o-unsplash_3.jpg");
+  background-repeat: repeat;
   background-color: #cccccc;
 }
 
@@ -27,6 +27,10 @@ h2 {
   margin-right: 6px;
   margin-block-start: 0.2em;
 margin-block-end: 0.2em;
+}
+
+.logo {
+  height: auto;
 }
 
 .title {
@@ -128,8 +132,8 @@ header {
 }
 
 .td-image {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 }
 
 
