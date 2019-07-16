@@ -177,6 +177,10 @@ a {
    padding-bottom: .2rem;
 }
 
+.pict7 {
+  height: auto;
+  max-height: 0.5rem;
+
 /* start of medium tablet styles */
 
 @media screen and (min-width: 767px) {
