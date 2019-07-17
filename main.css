@@ -36,6 +36,7 @@ table, th, td {
 
 .logo {
   height: auto;
+  max-height: 8rem;
 }
 
 .title {
@@ -168,7 +169,7 @@ a {
    left: 0;
    bottom: 0;
    width: 100%;
-  background-color: red;
+  background-color: black;
    color: white;
    font-family: 'Archivo Black', sans-serif;
    text-align: center;
@@ -178,7 +179,7 @@ a {
 
 .pict7 {
   height: auto;
-/*   max-height: 10rem; */
+  max-height: 10rem;
 }
 
 /* start of medium tablet styles */
@@ -192,6 +193,7 @@ a {
   
   .logo {
   height: auto;
+    max-height: 10rem;
 }
   
   .title {
@@ -205,6 +207,6 @@ a {
   
   .pict7 {
   height: auto;
-/*   max-height: 10rem; */
+  max-height: 15rem;
 }
 }
