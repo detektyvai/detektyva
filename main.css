@@ -46,9 +46,6 @@ table, th, td {
   margin-bottom: auto;
   font-family: 'Archivo Black', sans-serif;
   font-size: 1.5rem;
-  overflow: hidden;
-    white-space: nowrap;
-
 }
 
 .container {
@@ -180,7 +177,7 @@ a {
 
 .pict7 {
   height: auto;
-  max-height: 10rem;
+/*   max-height: 10rem; */
 }
 
 /* start of medium tablet styles */
@@ -202,6 +199,6 @@ a {
   
   .pict7 {
   height: auto;
-  max-height: 10rem;
+/*   max-height: 10rem; */
 }
 }
