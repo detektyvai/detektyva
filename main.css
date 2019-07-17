@@ -36,7 +36,6 @@ table, th, td {
 
 .logo {
   height: auto;
-  max-height: 8rem;
 }
 
 .title {
@@ -193,15 +192,12 @@ a {
   
   .logo {
   height: auto;
-    max-height: 10rem;
 }
   
   .title {
     justify-content: center;
     text-align: center;
     overflow: hidden;
-    white-space: nowrap;
-/*     text-align: justify; */
     font-size: 3rem;
   }
   
