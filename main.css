@@ -64,8 +64,8 @@ header {
 .links {
   margin-left: auto;
   margin-right: auto;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
   justify-content: center;
   align-content: space-between;
 }
@@ -82,8 +82,8 @@ header {
 }
 
 .sel-task {
-  width: 3em;
-  height: 3em;
+  width: 1.5em;
+  height: 1.5em;
   padding: 1.5rem;
   margin: 0.2rem;
   background-color: white;
@@ -209,6 +209,11 @@ a {
   justify-content: center;
   align-content: space-between;
 }
+  
+  .sel-task {
+    width: 3em;
+    height 3em;
+  }
 
   
   .pict7 {
