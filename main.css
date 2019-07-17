@@ -46,6 +46,8 @@ table, th, td {
   margin-bottom: auto;
   font-family: 'Archivo Black', sans-serif;
   font-size: 1.5rem;
+  overflow: hidden;
+    white-space: nowrap;
 
 }
 
@@ -192,6 +194,8 @@ a {
   .title {
     justify-content: center;
     text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
 /*     text-align: justify; */
     font-size: 3rem;
   }
