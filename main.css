@@ -64,8 +64,8 @@ header {
 .links {
   margin-left: auto;
   margin-right: auto;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   justify-content: center;
   align-content: space-between;
 }
@@ -200,6 +200,16 @@ a {
     overflow: hidden;
     font-size: 3rem;
   }
+  
+  .links {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  justify-content: center;
+  align-content: space-between;
+}
+
   
   .pict7 {
   height: auto;
